@@ -32,8 +32,8 @@
 			</i>
 		</ol>
 		<b>
-			<em> What are the team members like?</em>
-		</b>
+			<h2><em> What are the team members like?</em>
+		</b><h2>
 		<p>
 			<ul>
 				<li>
@@ -70,7 +70,12 @@
 				<li>Captain Flowers</li>
 			</i>
 		</ol>
-
+<h3>
+			<em>
+				<b>What are the team members like?</b>
+			</em>
+		</h4>
+		<ul></ul>
 
 
 
