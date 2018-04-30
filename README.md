@@ -13,6 +13,9 @@
         h3{
             color:Blue;
         }
+	#blue{
+		font-face: bold;
+	}
     </style>
 		<h1> Red Vs. Blue</h1>
 		<h2>
@@ -63,7 +66,7 @@
 				</li>
 			</ul>
 		</p>
-		<h3>
+		<h3 id="blue">
 			<em>
 				<b>Team Blue
 				</em>
@@ -108,4 +111,5 @@
 				<li><p>Sheila the tank</p> Shelia the tank is actually an A.I that keeps comng back. Caboose has fallen head over hells for Sheila.<i>'Why are there six pedals if there are only four directions?!" Sheila</i></li>
 			<li><p>Captain Flowers</p> Captain Flowers was actually a Freelancer agent before tking over as Blue team commander and was great until he died of an allegic reaction Advill<i>"Pleased as Punch to be here"-Captain Flowers</i></li> 
 			</ul>
-			<img src=http://rvb.wikia.com/wiki/The_Project_Freelancer_Saga>
+			<h5><Em><b>Before there was Red vs. Blue There was 
+PROJECT FREELANCER</b></Em></h5>
