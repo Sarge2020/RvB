@@ -1,11 +1,11 @@
 #Rvb
 <!DOCTYPE html>
-<!DOCTYPE html>
 <html>
 	<body>
 		<style>
         h1{
             color: DarkGreen;
+            text-align: center;
         }
         h2{
             color:red;
@@ -13,11 +13,14 @@
         h3{
             color:Blue;
         }
-	#blue{
-		font-face: bold;
-	}
+        #redvsblue{
+            width:80%;
+            display:block;
+            margin:0 auto;
+        }
     </style>
 		<h1> Red Vs. Blue</h1>
+		<img id="redvsblue" src="https://s3.amazonaws.com/cdn.roosterteeth.com/uploads/images/37fa8f3f-49b3-494d-bc41-17956491bb3e/md/group40cb9f2ff30f26a410c5af6b22b7b80b4e878acb37d79.jpg"/>
 		<h2>
 			<b>
 				<em> Team Red</em>
@@ -66,7 +69,7 @@
 				</li>
 			</ul>
 		</p>
-		<h3 id="blue">
+		<h3>
 			<em>
 				<b>Team Blue
 				</em>
@@ -108,8 +111,30 @@
 					<p>Tucker</p> Tucker is a great soldier who is a natural born leader. He is also massively funny but at times inappropriate. 
 					<i>"Bow chicka bow wow"-Tucker</i>
 				</li>
-				<li><p>Sheila the tank</p> Shelia the tank is actually an A.I that keeps comng back. Caboose has fallen head over hells for Sheila.<i>'Why are there six pedals if there are only four directions?!" Sheila</i></li>
-			<li><p>Captain Flowers</p> Captain Flowers was actually a Freelancer agent before tking over as Blue team commander and was great until he died of an allegic reaction Advill<i>"Pleased as Punch to be here"-Captain Flowers</i></li> 
+				<li>
+					<p>Sheila the tank</p> Shelia the tank is actually an A.I that keeps comng back. Caboose has fallen head over hells for Sheila.
+					<i>'Why are there six pedals if there are only four directions?!" Sheila</i>
+				</li>
+				<li>
+					<p>Captain Flowers</p> Captain Flowers was actually a Freelancer agent before tking over as Blue team commander and was great until he died of an allegic reaction Advill
+					<i>"Pleased as Punch to be here"-Captain Flowers</i>
+				</li>
 			</ul>
-			<h5><Em><b>Before there was Red vs. Blue There was 
-PROJECT FREELANCER</b></Em></h5>
+			<h5>
+				<Em>
+					<b>Before there was Red vs. Blue There was 
+PROJECT FREELANCER</b>
+				</Em>
+			</h5>
+			<h6>
+				<b>
+					<em>Project Freelancer</em>
+				</b>
+			</h6>
+			<img id="redvsblue" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkbdpwPt5uBDBoEnIG48ZS60jZ9LmfTCYnTaPMTBOhRWzyGZFn:https://vignette.wikia.nocookie.net/rvb/images/9/91/Season9.jpg/revision/latest%3Fcb%3D20110911141038"/>
+			<h7>
+				<b>
+					<i>Freelancers</i>
+				</b> The best of the best
+			</h7>
+			<!DOCTYPE html>
