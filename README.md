@@ -139,5 +139,16 @@ PROJECT FREELANCER</b>
 			</h7>
 			<h7><b>Agent Carolina</b></h7>
 			<p><i> Agent Carolina was the leader of the freelancer team and the second most bad ass freelancer in Project Freelancer. Obssessed with being the best she strived to beat Agent Texas the most bad ass Freelancer who happened to be her mother.</p>
-				
+			<h2>Favorite Character</h2>
+
+<form action="/action_page.php">
+  Team:<br>
+  <input type="text" name="firstname" value="Mickey">
+  <br>
+  Character:<br>
+  <input type="text" name="lastname" value="Mouse">
+  <br><br>
+  <input type="submit" value="Submit">
+</form> 
+	
 			<!DOCTYPE html>
